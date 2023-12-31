@@ -78,7 +78,3 @@ frame2.grid(row=0, column=1, sticky=W)
 frame.pack(expand=YES)
 
 window.mainloop()
-
-
-
-
